@@ -2,7 +2,7 @@
 ![Dashboard image](Dashboard.png)
 
 ## Project Objective
-The goal of this project was to analyze online sales data across customers, cities, product categories, and payment modes - and to create an interactive dashboard that makes it easy to draw insights.
+The goal of this project was to analyse online sales data across customers, cities, product categories, and payment modes - and to create an interactive dashboard that makes it easy to draw insights.
 
 ## Dataset Used: 
 [**Order Details**](https://github.com/radhasiingh/Power-BI-Project-1/blob/main/Details.csv)\
@@ -34,7 +34,7 @@ Top States:
   - Printers
   - Bookcases
     
-### 4. How does monthly profit trend throughout the year?
+### 4. How does the monthly profit trend throughout the year?
 - Highest Profits:
   - January, February, and November
 - Profit Dips:
@@ -80,21 +80,21 @@ These months may need attention for future marketing or operational improvements
 ### 10. Is there a mismatch between order volume and profit contribution?
 Answer:
 
-Yes — while Clothing drives the most orders, Electronics and Furniture (especially Printers and Bookcases) generate more profit.
+Yes, while Clothing drives the most orders, Electronics and Furniture (especially Printers and Bookcases) generate more profit.
 
 ## Process   
 Cleaned and prepared the datasets in Power Query\
 Created relationships using Order ID as the key\
 Built custom KPIs and visuals using DAX\
 Used filters (Quarter, State) to make the dashboard fully interactive\
-Ensured clear, non-cluttered layout with drill-down features and donut/pie visuals
+Ensured clear, non-cluttered layout with drill-down features and doughnut/pie visuals
 
 ## Conclusion
 - The Madhav Ecommerce dashboard is designed to act as a real-time tracker for business performance. It empowers decision-makers to:
 - Double down on high-converting regions and profitable products
-- Understand seasonal trends and customer behavior
+- Understand seasonal trends and customer behaviour
 - Strategically shift toward digital payment methods
-- Optimize inventory and marketing spend for key segments
+- Optimise inventory and marketing spend for key segments
 
 ## Tools Used
 Microsoft Power BI Desktop\
