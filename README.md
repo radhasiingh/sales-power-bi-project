@@ -101,3 +101,6 @@ Microsoft Power BI Desktop\
 DAX (Data Analysis Expressions)\
 Power Query (for cleaning and transformation)\
 Microsoft Excel
+
+> **Disclaimer**  
+> This project is for learning and portfolio demonstration purposes only and does not represent any firm's business data.
