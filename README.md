@@ -1,5 +1,5 @@
 # Online Sales Dashboard – Power BI Project
-![Dashboard image](Dashboard.png)
+![Dashboard image](sales_dashboard.png)
 
 ## Project Objective
 The goal of this project was to analyse online sales data across customers, cities, product categories, and payment modes - and to create an interactive dashboard that makes it easy to draw insights.
