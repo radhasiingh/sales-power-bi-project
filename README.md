@@ -11,7 +11,7 @@ Build an interactive dashboard to analyse Madhav Store’s online sales across c
 ## Business Problems
 
 1. What are the total sales, profits, and order volumes?
-2. 2. Which states and cities contribute the highest sales and revenue?
+2. Which states and cities contribute the highest sales and revenue?
 3. Which product categories and sub-categories are top performers?
 4. How does the monthly profit trend throughout the year?
 5. Which payment modes are most commonly used by customers?
