@@ -5,7 +5,7 @@
 Build an interactive dashboard to analyse Madhav Store’s online sales across customers, regions, products, and payment modes, enabling clear performance tracking and actionable business insights.
 
 ## Dataset Used: 
-- [**Order Details**](https://github.com/radhasiingh/Power-BI-Project-1/blob/main/Details.csv)\
+- [**Order Details**](https://github.com/radhasiingh/Power-BI-Project-1/blob/main/Details.csv)
 - [Customer details](https://github.com/radhasiingh/Power-BI-Project-1/blob/main/Orders.csv)
 
 ## Business Problems
